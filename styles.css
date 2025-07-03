@@ -1,0 +1,23 @@
+.nafiz{
+  margin: 10px;
+  padding: 5px;
+  background-color: aqua;
+
+}
+.nafiz1{
+  font-size: larger;
+  font-style: italic;
+}
+h3{
+  height: 300px;
+  background-image: url('1git.jpeg');
+  
+  background-color: aquamarine;
+  padding: 10px;
+  margin: 10px;
+}
+.tuki{
+  display: block;
+  margin-left: auto;
+  margin: auto;
+}
